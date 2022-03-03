@@ -1,0 +1,20 @@
+.banner_ligne {
+	background-color: #F4F4F4;
+	color: #FE0B01;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.banner_ligne p{
+
+  font-family: 'PT Sans', sans-serif;
+  font-size: 18px;
+  margin: 0px;
+  letter-spacing: 2px;
+  text-align: center;
+  line-height: 1.8;
+}
+
